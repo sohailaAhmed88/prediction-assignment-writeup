@@ -87,4 +87,4 @@ pred_test
 ## Reproducibility
 
 The R Markdown source and compiled HTML are in the GitHub repository at
-[your repo URL here].
+https://github.com/sohailaAhmed88/prediction-assignment-writeup.
